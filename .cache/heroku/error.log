@@ -1,0 +1,6 @@
+2017/02/20 02:51:43 heroku-cli/5.6.22-f9f7585 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: version
+2017/02/20 02:51:43 triggering background update
+2017/02/20 02:51:43 heroku-cli/5.6.22-f9f7585 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: update
+2017/02/20 02:51:43 heroku-cli/5.6.22-f9f7585 (linux-amd64) go1.7.5 /home/ubuntu/.local/share/heroku/cli/bin/heroku cmd: commands
+2017/02/20 02:51:43 heroku-cli: Updating plugins...
+2017/02/20 02:51:43  done
